@@ -5,3 +5,7 @@ function hello (argument) {
 function goodbay (argument) {
     // body...
 }
+
+function thanks (argument) {
+    // Something for work
+}
