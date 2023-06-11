@@ -8,4 +8,5 @@ function goodbay (argument) {
 
 function thanks (argument) {
     // Something for work
+    // We've created some new features here!
 }
